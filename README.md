@@ -7,6 +7,6 @@ ___
 ___
 <h4>064 Pooja Narwade.</h4>
   <h4>070 Pramod Gulumkar.</h4>
-  <h4>071 Pratik Prab.</h4>
+  <h4>071 Pratik Parab.</h4>
   <h4>074 Pratik Nimbalkar.</h4>
   <h4>076 Rahul Khot.</h4>
